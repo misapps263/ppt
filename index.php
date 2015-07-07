@@ -72,7 +72,7 @@ jugador1
 <option value="tijera">Tijera</option>
 </select>
 
-<input type="submit" value="...123 ก YA!"/>
+<input type="submit" value="...123 ยก YA!"/>
 </form>
 
 HERE;
